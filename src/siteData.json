@@ -1,0 +1,492 @@
+{
+  "artistInfo": {
+    "name": "LEELA NARAYAN",
+    "title": "Carnatic Vocalist • Music Educator • Performer • Anchor • Public Speaker • Founder",
+    "shortTitle": "Carnatic Vocalist | Music Educator | Performer | Anchor",
+    "academyName": "Leela Narayan School of Performing Arts (LNSOPA)",
+    "location": "Bengaluru, Karnataka",
+    "heroHeadline": "Where Music Meets Tradition, Confidence & Expression.",
+    "heroSubheadline": "Empowering learners through Carnatic music, devotional music, performance training and the joy of singing.",
+    "heroTagline": "Bringing together music, culture, confidence and performance through a journey of learning and expression.",
+    "bio": [
+      "Leela Narayan is a trained Carnatic vocalist, music educator, performing artist, public speaker and entrepreneur based in Bengaluru, Karnataka. With over a decade of dedicated training in Carnatic music, she is passionate about bringing Indian classical and devotional music closer to learners of all ages and backgrounds.",
+      "As the founder of Leela Narayan School of Performing Arts (LNSOPA), Leela conducts Carnatic Vocal, Devaranama, Bhajans and Light Music classes through both online and offline formats. Her teaching philosophy goes beyond learning songs—she focuses on developing voice culture, confidence, musical discipline, stage presence and a genuine love for music.",
+      "A strong believer that music should be accessible to everyone, Leela particularly encourages women, beginners and aspiring singers who may hesitate because of self-doubt, fear of judgement or lack of formal musical training.",
+      "Leela has performed at several reputed spiritual, cultural and community platforms, including Tirumala Tirupati Devasthanams (TTD), Srisailam and temple and cultural events across Bengaluru.",
+      "In addition to her musical journey, Leela brings a strong corporate and leadership background, having worked in the banking sector and served as a Vice President at ANZ Bank.",
+      "She is also an experienced event host and public speaker, with a passion for connecting with audiences, conducting cultural programs and creating engaging experiences.",
+      "Through her music school and performing-arts initiatives, Leela’s vision is to create a platform where music, culture, confidence and performance come together, while nurturing the next generation of Indian classical and devotional music enthusiasts."
+    ],
+    "contact": {
+      "phone": "+91 98765 43210",
+      "whatsapp": "919876543210",
+      "email": "itsmeleelanar@gmail.com",
+      "address": "Bengaluru, Karnataka, India",
+      "instagram": "https://instagram.com/leelanarayan.official",
+      "youtube": "https://youtube.com/@leelanarayanmusic",
+      "facebook": "https://facebook.com/leelanarayanmusic",
+      "linkedin": "https://linkedin.com/in/leelanarayan"
+    }
+  },
+  "stats": [
+    {
+      "label": "Dedicated Music Training",
+      "value": "10+ Years",
+      "desc": "Decade of Carnatic mastery"
+    },
+    {
+      "label": "Music Classes",
+      "value": "Online + Offline",
+      "desc": "Global & local students"
+    },
+    {
+      "label": "Performances & Events",
+      "value": "Multiple Platforms",
+      "desc": "Spiritual & cultural stages"
+    },
+    {
+      "label": "Student Mentorship",
+      "value": "Training & Stage",
+      "desc": "Building stage confidence"
+    }
+  ],
+  "threePillars": [
+    {
+      "id": "music",
+      "title": "MUSIC",
+      "subtitle": "Carnatic Vocal • Devaranama • Bhajans • Light Music",
+      "icon": "Music",
+      "desc": "Structured classical & devotional vocal education focusing on voice culture, pitch accuracy, and traditional compositions.",
+      "features": [
+        "Carnatic Classical",
+        "Devaranama & Dasara Pada",
+        "Spiritual Bhajans",
+        "Melodious Light Music"
+      ]
+    },
+    {
+      "id": "performance",
+      "title": "PERFORMANCE",
+      "subtitle": "Stage Performances • Cultural Events • Devotional Programs",
+      "icon": "Sparkles",
+      "desc": "Authentic live vocal renditions at revered venues including TTD Tirupati, Srisailam, and prominent Bengaluru festivals.",
+      "features": [
+        "TTD & Srisailam Seva",
+        "Temple & Sabha Recitals",
+        "Community Cultural Events",
+        "Student Concert Showcases"
+      ]
+    },
+    {
+      "id": "hosting",
+      "title": "HOSTING",
+      "subtitle": "Anchoring • Public Speaking • Cultural Event Hosting",
+      "icon": "Mic",
+      "desc": "Commanding stage presence backed by corporate VP leadership, delivering graceful event anchoring and public speeches.",
+      "features": [
+        "Cultural Program Anchoring",
+        "Music Festival Hosting",
+        "Corporate & Gala Events",
+        "Inspirational Keynotes"
+      ]
+    }
+  ],
+  "areasOfExpertise": [
+    "Carnatic Classical Vocal",
+    "Devaranama",
+    "Bhajans",
+    "Light Music",
+    "Voice Culture",
+    "Music Education",
+    "Student Performance Training",
+    "Cultural Event Hosting",
+    "Public Speaking",
+    "Performing Arts",
+    "Women’s Music Workshops"
+  ],
+  "teacherInfo": {
+    "quote": "“Every musical journey begins with a Guru who inspires, guides and shapes the artist.”",
+    "name": "Guru Smt. [Revered Carnatic Musician]",
+    "title": "Eminent Carnatic Vocalist & Vidushi",
+    "background": "Rooted in the pristine tradition of Carnatic Music, Leela received intensive mentorship under distinguished Gurus, absorbing the subtle nuances of raga bhava, tala precision, and classical aesthetics.",
+    "training": "Over 10 years of rigorous training under revered Gurus in Bengaluru, mastering foundational abhyasa gana, varnams, kritis, and manodharma music.",
+    "philosophy": "Preserving authentic classical traditions while making music welcoming, encouraging, and deeply empowering for learners of all backgrounds.",
+    "impact": "Instilled in Leela the devotion to music as a sadhana, guiding her transition from dedicated student to inspiring performer and compassionate music educator."
+  },
+  "musicClasses": [
+    {
+      "id": "carnatic",
+      "title": "Carnatic Vocal",
+      "desc": "Structured Carnatic vocal training from fundamentals (Sarali Varisai) to advanced kritis and manodharma.",
+      "levels": "Beginner | Intermediate | Advanced",
+      "format": "Online & Offline",
+      "icon": "Music",
+      "details": [
+        "Sarali & Jantai Varisais",
+        "Alankaras & Geethams",
+        "Varnams & Kritis",
+        "Manodharma & Gamakas"
+      ]
+    },
+    {
+      "id": "devaranama",
+      "title": "Devaranama",
+      "desc": "Learn devotional compositions of Haridasas (Purandara Dasa, Kanaka Dasa) with melody, meaning and expression.",
+      "levels": "All Levels Welcome",
+      "format": "Online & Offline",
+      "icon": "HeartHandshake",
+      "details": [
+        "Dasara Padas",
+        "Lyrical Meanings",
+        "Raga Bhava & Devotion",
+        "Pronunciation & Clarity"
+      ]
+    },
+    {
+      "id": "bhajans",
+      "title": "Bhajans",
+      "desc": "Learn soulful devotional songs for individual spiritual practice and vibrant group performances.",
+      "levels": "Beginner & Intermediate",
+      "format": "Online & Offline",
+      "icon": "Sun",
+      "details": [
+        "Namavali Bhajans",
+        "Traditional Melodies",
+        "Group Harmony",
+        "Rhythm & Talam"
+      ]
+    },
+    {
+      "id": "light-music",
+      "title": "Light Music",
+      "desc": "Develop voice control, expression and confidence through popular Indian light music and sugama sangeetha.",
+      "levels": "Beginner & Intermediate",
+      "format": "Online & Offline",
+      "icon": "Radio",
+      "details": [
+        "Sugama Sangeetha",
+        "Expressive Singing",
+        "Microphone Technique",
+        "Melody & Emotion"
+      ]
+    },
+    {
+      "id": "voice-culture",
+      "title": "Voice Culture",
+      "desc": "Improve pitch stability, breath control, vocal range, clarity, tone quality and singing confidence.",
+      "levels": "All Singers & Speakers",
+      "format": "Online & Offline",
+      "icon": "Volume2",
+      "details": [
+        "Breath Management",
+        "Pitch Range Extension",
+        "Resonance & Clarity",
+        "Overcoming Stage Anxiety"
+      ]
+    },
+    {
+      "id": "performance-training",
+      "title": "Performance Training",
+      "desc": "Prepare students for live stage performances, competitions, cultural showcases, and exam certifications.",
+      "levels": "Intermediate & Advanced",
+      "format": "Online & Offline",
+      "icon": "Award",
+      "details": [
+        "Stage Presence & Poise",
+        "Microphone Handling",
+        "Concert Presentation",
+        "Student Showcases"
+      ]
+    }
+  ],
+  "whyLearnCards": [
+    {
+      "title": "Learn With Confidence",
+      "desc": "A warm, supportive learning environment designed for women, beginners, and aspiring singers to thrive without hesitation.",
+      "icon": "Smile"
+    },
+    {
+      "title": "Personalized Guidance",
+      "desc": "Focused personal attention and structured step-by-step learning tailored to every student's pace.",
+      "icon": "UserCheck"
+    },
+    {
+      "title": "Performance Opportunities",
+      "desc": "Regular chances for students to participate and showcase their talent in prestigious cultural & devotional programs.",
+      "icon": "Star"
+    },
+    {
+      "title": "Voice Development",
+      "desc": "Scientific and traditional voice culture techniques to refine pitch, clarity, stamina, and tonal beauty.",
+      "icon": "Activity"
+    },
+    {
+      "title": "Cultural Connection",
+      "desc": "Deepen your bond with Indian classical music, rich heritage, spiritual literature, and sacred traditions.",
+      "icon": "Compass"
+    },
+    {
+      "title": "Stage Confidence",
+      "desc": "Seamless transition from classroom practice to confidently singing in front of appreciative audiences.",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "studentSection": {
+    "title": "Celebrating Every Student's Journey",
+    "subtitle": "From Learning to Performing",
+    "text": "Music is not only about learning—it is about confidence, discipline, expression and the joy of performing. Students at LNSOPA are nurtured to blossom into confident performers on stage.",
+    "highlights": [
+      "Student Achievements & Awards",
+      "Cultural & Festival Participation",
+      "Stage Exposure & Group Choirs",
+      "Confidence Building & Mentorship"
+    ],
+    "journeySteps": [
+      {
+        "step": "1",
+        "title": "Learn",
+        "desc": "Master foundational concepts and ragas"
+      },
+      {
+        "step": "2",
+        "title": "Practice",
+        "desc": "Refine voice culture, rhythm, and clarity"
+      },
+      {
+        "step": "3",
+        "title": "Build Confidence",
+        "desc": "Overcome stage hesitation in guided sessions"
+      },
+      {
+        "step": "4",
+        "title": "Perform",
+        "desc": "Sing live at temple & cultural programs"
+      },
+      {
+        "step": "5",
+        "title": "Grow",
+        "desc": "Evolve into an expressive, accredited artist"
+      }
+    ]
+  },
+  "devotionalSection": {
+    "title": "Music Rooted in Devotion & Tradition",
+    "subtitle": "Music, Devotion & Culture",
+    "text": "Through devotional music and cultural programs, Leela encourages students to experience Indian musical traditions through learning, participation and performance.",
+    "highlights": [
+      "Devaranama & Dasara Compositions",
+      "Spiritual Bhajans & Stotras",
+      "Devotional Concerts & Temple Sevas",
+      "Cultural Celebrations & Community Choirs",
+      "Student Participation in Festivals"
+    ]
+  },
+  "achievements": [
+    {
+      "id": 1,
+      "year": "2025",
+      "title": "Spiritual Music Seva at TTD Tirumala",
+      "org": "Tirumala Tirupati Devasthanams",
+      "category": "Performance",
+      "desc": "Rendered soulful Carnatic and devotional compositions at the sacred premises of Tirumala Tirupati Devasthanams.",
+      "image": "/images/leela-award-stage.jpg"
+    },
+    {
+      "id": 2,
+      "year": "2024",
+      "title": "Cultural Excellence & Artist Recognition",
+      "org": "Bharat Scouts & Guides Cultural Meet, Bengaluru",
+      "category": "Award",
+      "desc": "Honored on stage for outstanding contribution to music education, cultural preservation, and student mentorship.",
+      "image": "/images/leela-award-stage.jpg"
+    },
+    {
+      "id": 3,
+      "year": "2024",
+      "title": "Shyamotsava Festival of Classical Arts",
+      "org": "Natanam Foundation",
+      "category": "Cultural Event",
+      "desc": "Mentored and led young students in group music performances at Shyamotsava Classical Arts Festival.",
+      "image": "/images/leela-shyamotsava-events.jpg"
+    },
+    {
+      "id": 4,
+      "year": "2023",
+      "title": "Devotional Recital at Srisailam Devasthanam",
+      "org": "Srisailam Temple Trust",
+      "category": "Performance",
+      "desc": "Invited devotional vocal performance featuring sacred Devaranamas and Shiva Stotrams.",
+      "image": "/images/leela-devotional-ganesha.jpg"
+    },
+    {
+      "id": 5,
+      "year": "2022",
+      "title": "Founder of Leela Narayan School of Performing Arts",
+      "org": "LNSOPA Bengaluru",
+      "category": "Academy",
+      "desc": "Established LNSOPA to nurture Carnatic music, devotional sangeetha, and voice culture across Bengaluru and online globally.",
+      "image": "/images/leela-students-awards-ganesha.jpg"
+    }
+  ],
+  "culturalEventsSection": {
+    "title": "Nurturing Young Performers",
+    "subtitle": "Celebrating Indian Classical Arts",
+    "text": "Leela actively mentors students and encourages them to participate in cultural programs, devotional events and stage performances. Experiences like Shyamotsava instill lifelong poise, artistic pride, and musical excellence.",
+    "highlights": [
+      "Student Performances & Choirs",
+      "Cultural Festivals & Competitions",
+      "Preserving Classical Arts Heritage",
+      "Stage Exposure & Group Poise",
+      "Confidence Building for Young Learners"
+    ]
+  },
+  "anchoringSection": {
+    "title": "Anchor • Host • Speaker",
+    "subtitle": "Elegance, Articulation & Audience Engagement",
+    "text": "Leela Narayan is an experienced event host and public speaker with a passion for connecting with audiences, conducting cultural programs and creating engaging experiences. Bringing former ANZ Bank VP leadership into artistic hosting.",
+    "cards": [
+      {
+        "title": "Cultural Events",
+        "desc": "Conducting traditional music & dance festivals with warmth and authentic etiquette."
+      },
+      {
+        "title": "Music Programs",
+        "desc": "Introducing ragas, artists, and classical compositions to audiences effortlessly."
+      },
+      {
+        "title": "Stage Hosting",
+        "desc": "Seamless flow management for major stage recitals and celebration galas."
+      },
+      {
+        "title": "Corporate Events",
+        "desc": "Polished corporate host bringing VP-level professionalism and clear presentation."
+      },
+      {
+        "title": "Public Speaking",
+        "desc": "Inspiring speeches on women empowerment, music therapy, and artistic growth."
+      },
+      {
+        "title": "Cultural Celebrations",
+        "desc": "Hosting festive, temple, and community celebrations across Bengaluru."
+      }
+    ]
+  },
+  "upcomingEvents": [
+    {
+      "id": 1,
+      "name": "Carnatic Vocal & Devaranama Workshop",
+      "date": "November 15, 2026",
+      "time": "10:00 AM - 1:00 PM IST",
+      "venue": "LNSOPA Studio / Online Zoom",
+      "city": "Bengaluru, Karnataka",
+      "desc": "An interactive masterclass on voice culture, bhava in Devaranamas, and pitch alignment for beginners & intermediate singers.",
+      "category": "Workshops"
+    },
+    {
+      "id": 2,
+      "name": "Annual Student Showcase & Devotional Evening",
+      "date": "December 20, 2026",
+      "time": "5:30 PM IST Onwards",
+      "venue": "Chowdiah Memorial Hall",
+      "city": "Bengaluru, Karnataka",
+      "desc": "A grand celebration showcasing student performances, group devotional renditions, and award presentations.",
+      "category": "Student Performances"
+    },
+    {
+      "id": 3,
+      "name": "TTD Spiritual Music Seva Stream",
+      "date": "January 10, 2027",
+      "time": "6:00 PM IST",
+      "venue": "Devotional Cultural Stage",
+      "city": "Tirupati / Live Online",
+      "desc": "Special live rendering of sacred Purandara Dasa kritis and Carnatic devotional ragas.",
+      "category": "Music Programs"
+    }
+  ],
+  "galleryImages": [
+    {
+      "id": 1,
+      "title": "Live Carnatic Performance",
+      "category": "Performances",
+      "src": "/images/leela-hero-performance.jpg",
+      "caption": "Leela Narayan performing live Carnatic vocal recital in traditional pink saree on stage.",
+      "highlight": "Hero Artist Profile"
+    },
+    {
+      "id": 2,
+      "title": "Student Achievement Celebration",
+      "category": "Students & Achievements",
+      "src": "/images/leela-students-awards-ganesha.jpg",
+      "caption": "Leela Narayan celebrating student awards and accomplishments in front of Ganesha setup.",
+      "highlight": "Student Mentorship"
+    },
+    {
+      "id": 3,
+      "title": "Devotional Music Program",
+      "category": "Devotional Events",
+      "src": "/images/leela-devotional-ganesha.jpg",
+      "caption": "Devotional music session with young students in front of majestic Ganesha deity.",
+      "highlight": "Devotional Culture"
+    },
+    {
+      "id": 4,
+      "title": "Recognition & Awards",
+      "category": "Awards & Recognition",
+      "src": "/images/leela-award-stage.jpg",
+      "caption": "Leela receiving stage honor and recognition for excellence in music education.",
+      "highlight": "Excellence Honor"
+    },
+    {
+      "id": 5,
+      "title": "Shyamotsava Cultural Event",
+      "category": "Cultural Programs",
+      "src": "/images/leela-shyamotsava-events.jpg",
+      "caption": "Leela with students at Shyamotsava Festival of Indian Classical Arts.",
+      "highlight": "Cultural Festival"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sowmya R.",
+      "role": "Parent of Student",
+      "course": "Carnatic Vocal & Devaranama",
+      "text": "Leela Ma'am is an extraordinary teacher. My 8-year-old daughter joined LNSOPA with initial nervousness, but within months she gained immense pitch clarity and stage confidence!",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Priya Venkatesh",
+      "role": "Adult Learner",
+      "course": "Voice Culture & Light Music",
+      "text": "As a working professional who always hesitated to sing, Leela Ma'am's patient and encouraging methodology brought out my hidden voice. Her classes are the highlight of my week!",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Anand Kumar",
+      "role": "Parent",
+      "course": "Carnatic Classical & Bhajans",
+      "text": "The student performance opportunities provided at LNSOPA are unmatched. Watching my son sing on stage with proper posture and confidence brought tears of joy to our eyes.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can join the music classes?",
+      "a": "Classes are open to students of all ages—children, adults, beginners, and advanced learners. We specifically welcome women and adult beginners who wish to restart their musical journey!"
+    },
+    {
+      "q": "Are online classes available?",
+      "a": "Yes! We conduct interactive online classes via Zoom/Google Meet for international and outstation students, as well as offline classes in Bengaluru."
+    },
+    {
+      "q": "Do I need prior musical training?",
+      "a": "Not at all. We start from foundational voice exercises and basic varisais, customizing the pace according to each learner."
+    },
+    {
+      "q": "Do students get stage performance opportunities?",
+      "a": "Yes, LNSOPA regularly organizes student showcases, temple devotional programs, and cultural festival participation."
+    }
+  ]
+}
